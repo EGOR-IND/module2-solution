@@ -8,6 +8,7 @@ section {
     border: 1px solid black;
     background-color: gray;
     overflow: visible;
+    height: 400px;
 }
 
 div {
